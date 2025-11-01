@@ -1,1 +1,1 @@
-# Chapter-23-Community-Detection-and-Mining-in-Social-Networks
+# Chapter-18-Exploring Fraud Through Network Visualization and Homophily
